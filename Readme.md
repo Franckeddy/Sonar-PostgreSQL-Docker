@@ -1,5 +1,5 @@
 # Dockerized
-[<img src="https://lh3.googleusercontent.com/proxy/HX_ZxMHpJmKQ68-I-RpT8IlwoJXq196nNc7MCZRItCVBhopZLoxpmGwZc4TXGRyH1aB1bgBko4V_a-mlK3EixPaSgRWnkAvlyRVctYesS1PuiL2evtsADZw7vhb7kZNtec9BHm59Nvek" style="width: 150px">](https://www.sonarqube.org/)  **with**  [<img src="https://dbdb.io/media/logos/postgres-horizontal_4IEbUKW.png" style="width: 200px;">](https://www.postgresql.org/) 
+[<img src="https://lh3.googleusercontent.com/proxy/HX_ZxMHpJmKQ68-I-RpT8IlwoJXq196nNc7MCZRItCVBhopZLoxpmGwZc4TXGRyH1aB1bgBko4V_a-mlK3EixPaSgRWnkAvlyRVctYesS1PuiL2evtsADZw7vhb7kZNtec9BHm59Nvek" style="width: 50px">](https://www.sonarqube.org/)  **with**  [<img src="https://dbdb.io/media/logos/postgres-horizontal_4IEbUKW.png" style="width: 50px;">](https://www.postgresql.org/) 
 
 -----
 Prerequisites
